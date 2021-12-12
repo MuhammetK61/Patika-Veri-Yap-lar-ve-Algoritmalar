@@ -1,0 +1,5 @@
+[7, 5, 1, 8, 3, 6, 0, 9, 4, 2] -> Binary Serch Tree
+
+
+root=5 ->sağ düğüm=7 ->(sağ düğüm=8->sağ düğüm=9 ) ->sol düğüm=6
+       ->sol düğüm=1 ->(sağ düğüm=3->(sağ düğüm=4) ->sol düğüm=2) ->sol düğüm=0
